@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "antd": "^4.20.5",
+    "mobx": "^6.6.0",
+    "mobx-react": "^7.5.0",
+    "react-draggable": "^4.4.5",
+    "react-icons": "^4.4.0",
+    "react-redux": "^8.0.2",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0"
+  }
+}
